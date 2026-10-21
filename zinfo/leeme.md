@@ -6,3 +6,6 @@
 
 ## array mas ejemplos de array
 ![alt text](image-2.png)
+
+## Resultado
+![alt text](image-3.png)
